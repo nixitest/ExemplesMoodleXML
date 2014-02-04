@@ -20,5 +20,17 @@
 			<text>Second item de la seconde paire</text>
 		</answer>
 	</subquestion>
+	<subquestion>
+		<text>3eme item de la seconde paire</text>
+		<answer>
+			<text>Second item de la seconde paire</text>
+		</answer>
+	</subquestion>
+	<subquestion>
+		<text>4eme item de la seconde paire</text>
+		<answer>
+			<text>Second item de la seconde paire</text>
+		</answer>
+	</subquestion>
 	<shuffleanswers>true
 </question>
